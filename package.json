@@ -1,0 +1,24 @@
+{
+  "name": "wcs-w3cvalidator",
+  "version": "1.0.0",
+  "description": "WCS W3C html validator",
+  "main": "w3cValidator.js",
+  "type": "module",
+  "scripts": {
+    "start": "node w3cValidator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piment/wcs-W3CValidator.git"
+  },
+  "author": "Romain MURA (base on w3c-html-validator by https://www.npmjs.com/package/w3c-html-validator)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piment/wcs-W3CValidator/issues"
+  },
+  "homepage": "https://github.com/piment/wcs-W3CValidator#readme",
+  "dependencies": {
+    "w3c-html-validator": "^1.0.3"
+  }
+}
