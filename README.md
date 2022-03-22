@@ -1,0 +1,2 @@
+- install package with => npm install https://github.com/piment/wcs-W3CValidator
+- add this line to scripts in package.json => "start": "node node_modules/wcs-w3cvalidator/w3cValidator.js"
